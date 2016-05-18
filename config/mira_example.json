@@ -1,0 +1,4 @@
+{
+  "mira-url": "PUT MIRA SERVER URL HERE, e.g. http://localhost:3000",
+  "mira-api-Key": "PUT MIRA API KEY HERE"
+}
